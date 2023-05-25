@@ -4,3 +4,7 @@
 module "compute" {
   source        = "./compute"
 }
+
+module "compute" {
+  source        = "./compute"
+}
