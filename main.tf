@@ -3,5 +3,4 @@
 
 module "compute" {
   source        = "./compute"
-  source        = "./compute"
 }
