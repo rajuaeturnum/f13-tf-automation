@@ -5,6 +5,6 @@ module "compute" {
   source        = "./compute"
 }
 
-module "compute" {
+module "compute2" {
   source        = "./compute"
 } 
